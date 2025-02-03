@@ -33,21 +33,8 @@ Este repositorio contiene el código y materiales relacionados con mi Trabajo de
 
 ## Requisitos
 
-Para ejecutar el código, instala las dependencias con:
-```bash
-pip install -r requirements.txt
-```
 
-## Uso
 
-Ejecuta una simulación básica del modelo OFC con:
-```bash
-python src/ofc_model.py --size 50 --steps 10000
-```
-Para visualizar las redes:
-```bash
-python src/visualization.py --mode 3D
-```
 
 ## Contacto
 Para dudas o sugerencias, puedes contactarme o abrir un *issue* en el repositorio.
