@@ -54,5 +54,5 @@ Para dudas o sugerencias, puedes contactarme o abrir un *issue* en el repositori
 
 ---
 
-Este README se puede ampliar con ejemplos de uso y explicaciones más detalladas a medida que el proyecto avance.
+Este README se va a ampliar con ejemplos de uso y explicaciones más detalladas a medida que el proyecto avance :)
 
