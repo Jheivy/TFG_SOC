@@ -34,22 +34,6 @@ Este proyecto aún **no está finalizado**, y su desarrollo continuará con un e
 - **Optimización de sistemas SOC** mediante métodos variacionales y redes neuronales.
 - **Análisis de correlaciones temporales** en la dinámica de los grafos generados.
 
-## 📂 Estructura del Repositorio
-```
-📦 TFG-SOC
-├── 📂 images             # Imágenes generadas durante el estudio
-├── 📜 README.md          # Este archivo
-├── 📜 main.ipynb         # Notebooks con análisis y simulaciones
-├── 📜 data/              # Datos obtenidos de simulaciones
-├── 📜 src/               # Código fuente para simulaciones y análisis
-└── 📜 references/        # Artículos y referencias relevantes
-```
-
-## 📢 Contacto
-Si te interesa este proyecto o quieres colaborar, puedes contactarme a través de GitHub o LinkedIn.
-
-📧 **Email:** [TuEmail@ejemplo.com](mailto:TuEmail@ejemplo.com)  
-🔗 **LinkedIn:** [TuPerfil](https://www.linkedin.com/in/tuperfil)  
 
 ---
 📌 *Este proyecto está en desarrollo y cualquier feedback o sugerencia es bienvenido.* 🎯
