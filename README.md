@@ -41,11 +41,3 @@ program OFC
   implicit none
   print *, "Welcome to the OFC Simulation"
 end program OFC
-
-
-
-
-
-
-
-
