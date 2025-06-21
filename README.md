@@ -11,36 +11,12 @@ Para ello, se han empleado **simulaciones computacionales extensivas en redes 2D
 ## 📌 Objetivos Principales
 
 ✅ **Caracterización Exhaustiva del Estado SOC:** Validar que el modelo OFC exhibe un comportamiento robusto de SOC, caracterizado por avalanchas que siguen leyes de potencias consistentes con observaciones sismológicas, como la ley de Gutenberg-Richter.
+
 ✅ **Análisis del Rol de la Entropía de Shannon:** Investigar cómo la entropía de Shannon complementa la caracterización energética de la SOC, revelando información oculta sobre los mecanismos de auto-organización del sistema.
+
 ✅ **Influencia de Parámetros Clave:** Estudiar cómo las variaciones en el tamaño de la red ($L$) y el parámetro de conservación ($\alpha$) impactan en la dinámica autoorganizada y las propiedades entrópicas y energéticas del sistema.
+
 ✅ **Identificación de Mecanismos de Auto-Optimización:** Demostrar cómo el sistema tiende a auto-optimizarse en su estado crítico, particularmente a través de la minimización de energía y maximización de entropía.
-
-## 📊 Resultados Destacados
-
-### 🔹 **Comportamiento Energético y Entrópico de la Red**
-
-<div align="center">
-  <img src="images/image_cc5bd9.png" width="500"> </div>
-
-- La distribución conjunta de la energía total y la entropía de Shannon revela un patrón clave: tras grandes avalanchas, el sistema tiende a un estado de **mínima energía acumulada y máxima entropía**.
-- Este comportamiento es un **claro indicador de auto-optimización**, donde la red se relaja eficientemente para mantener su estado crítico.
-
-### 🔹 **Determinación del Parámetro Óptimo ($\alpha$)**
-
-<div align="center">
-  <img src="images/fisher.png" width="600"> </div>
-
-- El análisis del centro de masas de la distribución energía-entropía en función del parámetro de conservación $\alpha$ muestra un **mínimo pronunciado en $\alpha \approx 0.20$**.
-- Este hallazgo sugiere que $\alpha=0.20$ representa un **punto óptimo** en la dinámica de auto-organización del sistema, notablemente coherente con las observaciones en sistemas geofísicos reales, lo que no es una casualidad, sino una **consecuencia de la auto-optimización del sistema**.
-- Además, para $\alpha=0.24$, la distribución de la energía disipada frente al tamaño de la avalancha se ensancha, pero con una tendencia a **minimizar la energía disipada**, reforzando el concepto de auto-optimización.
-
-### 🔹 **Leyes de Potencias y Efectos de Tamaño Finito**
-
-<div align="center">
-  <img src="images/761ae74c-fdbb-4c30-ac25-d3e07a841aa4.png" width="600"> </div>
-
-- Se confirma que las avalanchas en el modelo OFC siguen consistentemente **leyes de potencias**, verificando la ley de Gutenberg-Richter y demostrando la ausencia de una escala característica en la dinámica crítica.
-- El estudio detallado reveló **efectos de tamaño finito** en redes pequeñas, enfatizando la importancia de las simulaciones con grandes $L$ para la convergencia hacia un exponente universal en el límite termodinámico.
 
 ## 🚀 Posibles Avances y Futuras Extensiones
 
