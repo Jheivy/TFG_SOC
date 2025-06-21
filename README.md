@@ -23,8 +23,11 @@ Para ello, se han empleado **simulaciones computacionales extensivas en redes 2D
 Este proyecto sienta las bases para diversas líneas de investigación futuras:
 
 🔹 **Aplicación en Redes Cerebrales y Neurociencia:** Extender los principios de SOC y entropía al estudio de la dinámica neuronal y las avalanchas cerebrales, dada la optimización en el procesamiento de información en el estado crítico.
+
 🔹 **Diseño de Arquitecturas de IA Inspiradas en SOC:** Utilizar los mecanismos de auto-optimización y criticidad como inspiración para el desarrollo de redes neuronales artificiales más eficientes, adaptativas y robustas.
+
 🔹 **Exploración de Otras Medidas de Información:** Incorporar otras herramientas de la teoría de la información para obtener una caracterización más completa del estado crítico del sistema.
+
 🔹 **Simulaciones a Mayor Escala:** Realizar simulaciones con tamaños de red aún mayores para mitigar completamente los efectos de tamaño finito y explorar el límite termodinámico con mayor precisión.
 
 ---
