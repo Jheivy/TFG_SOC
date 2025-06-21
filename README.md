@@ -36,6 +36,13 @@ Este proyecto sienta las bases para diversas líneas de investigación futuras:
 
 ---
 
+```fortran
+program OFC
+  implicit none
+  print *, "Welcome to the OFC Simulation"
+end program OFC
+
+
 
 
 
